@@ -11,10 +11,11 @@
 - Определить возраст клиентов, наиболее активных на платформе *computer*
 
 ## Используемые технологии
-- Python 3.10
+- Python
 - pandas
 - seaborn
 - matplotlib
 - Jupyter Notebook
+
 
 
